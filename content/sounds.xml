@@ -1,0 +1,8 @@
+<sounds root="sfx/reinforcement-of-isaac/">
+	<sound name="Round Start">
+		<sample weight="1" path="among-us-roundstart.wav" />
+	</sound>
+	<sound name="Game Over">
+		<sample weight="1" path="among-us-impostor-kill-music_01.wav" />
+	</sound>
+</sounds>
